@@ -6,3 +6,4 @@ based on windows,mainly for windows,but not limited to windows
 * windows进程监控
 * windows服务监控
 * 批量脚本执行
+* web管理界面
